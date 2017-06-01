@@ -1,0 +1,11 @@
+# Site settings
+title: Kevin Liao
+author: Kevin Liao
+email: kevinliao@asu.edu
+description: Academic homepage of Kevin Liao.
+url: http://www.kevinliao.me
+paginate: 5
+
+gems: [jekyll-paginate, kramdown]
+# Build settings
+markdown: kramdown

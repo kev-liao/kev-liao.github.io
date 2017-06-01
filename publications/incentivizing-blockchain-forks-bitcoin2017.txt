@@ -1,0 +1,6 @@
+@inproceedings{liao2017incentivizing,
+  title={Incentivizing Blockchain Forks via Whale Transactions},
+  author={Liao, Kevin and Katz, Jonathan},
+  booktitle={4th Workshop on Bitcoin and Blockchain Research (BITCOIN)},
+  year={2017}
+}
