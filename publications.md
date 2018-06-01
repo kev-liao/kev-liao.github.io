@@ -4,7 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
-<p class="lead">Toward Inductive Reverse Engineering of Web Applications<br><i>Kevin Liao</i>, Tejas Khairnar, <a href="http://adamdoupe.com/">Adam Doupé</a>. [In Submission]</p>
+<p class="lead">Jango: Towards Black-Box Inductive Synthesis of Web Applications
+for Automatic Exploit Generation<br><i>Kevin Liao</i>, Connor Nelson, <a href="http://adamdoupe.com/">Adam Doupé</a>. [In Submission]</p>
 
 <p class="lead">Incentivizing Blockchain Forks via Whale Transactions [<a href="incentivizing-blockchain-forks-bitcoin2017.pdf">pdf</a>] [<a href="incentivizing-blockchain-forks-bitcoin2017.txt">BibTex</a>]<br><i>Kevin Liao</i> and <a href="https://www.cs.umd.edu/~jkatz/">Jonathan Katz</a>. <br>Workshop on Bitcoin and Blockchain Research (<b>BITCOIN</b>), April, 2017. [Workshop Paper]</p>
 
