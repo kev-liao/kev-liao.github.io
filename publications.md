@@ -10,8 +10,8 @@ href="http://adamdoupe.com/">Adam Doupé</a>. [In Submission]</p>
 
 <p class="lead">A Calculus for Composable, Computational
 Cryptography<br><i>Kevin Liao</i>, <a href="http://matthewhammer.org/">Matthew Hammer</a>, <a
-href="http://soc1024.ece.illinois.edu/">Andrew Miller</a>. <br>Conditionally
-accepted to PLDI 2019. [Conference Paper]</p>
+href="http://soc1024.ece.illinois.edu/">Andrew Miller</a>. <br>Conference on
+Programming Language Design and Implementation (<b>PLDI</b>), June, 2019. [Conference Paper]</p>
 
 <p class="lead">Incentivizing Blockchain Forks via Whale Transactions [<a href="incentivizing-blockchain-forks-bitcoin2017.pdf">pdf</a>] [<a href="incentivizing-blockchain-forks-bitcoin2017.txt">BibTex</a>]<br><i>Kevin Liao</i> and <a href="https://www.cs.umd.edu/~jkatz/">Jonathan Katz</a>. <br>Workshop on Bitcoin and Blockchain Research (<b>BITCOIN</b>), April, 2017. [Workshop Paper]</p>
 
