@@ -1,9 +1,9 @@
 # Site settings
 title: Kevin Liao
 author: Kevin Liao
-email: kevinliao@asu.edu
+email: kliao6@illinois.edu
 description: Academic homepage of Kevin Liao.
-url: http://www.kevinliao.me
+url: http://www.kevliao.com
 paginate: 5
 
 gems: [jekyll-paginate, kramdown]
