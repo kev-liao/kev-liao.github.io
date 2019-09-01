@@ -3,4 +3,10 @@ title: Kevin Liao
 author: Kevin Liao
 email: kliao6@illinois.edu
 description: Kevin Liao's academic website
-url: http://www.kevliao.com
+url: 'http://www.kevliao.com'
+
+sass:
+  sass_dir: _sass
+markdown: kramdown
+collections:
+  publications:
