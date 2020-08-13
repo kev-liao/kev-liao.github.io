@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kevliao
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kevliao.com
+  * I am kevliao (https://keybase.io/kevliao) on keybase.
+  * I have a public key ASAvzDDVxT8e5_Yq9yhcX-rljII-xjSBIPKWM7eFmYNILQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202fcc30d5c53f1ee7f62af7285c5feae58c823ec6348120f29633b7859983482d0a",
+      "host": "keybase.io",
+      "kid": "01202fcc30d5c53f1ee7f62af7285c5feae58c823ec6348120f29633b7859983482d0a",
+      "uid": "525e64e79e50ebe928fb6bf7fffb8719",
+      "username": "kevliao"
+    },
+    "merkle_root": {
+      "ctime": 1597279299,
+      "hash": "d28386bc1169251727cd144fbfeda82edb2d59d48548bca7ea157cbedc5ce87abb9ebab412c526f83eb7310c1a7d3f6bd9a85351a52a3c59a85b8e8b85386dc5",
+      "hash_meta": "891f7bfd5d52e94972d213e8610a8aeb2656909862f66d43e1aa1647e0d923ac",
+      "seqno": 17265031
+    },
+    "service": {
+      "entropy": "ljVob12nMUnhfmFtqlnsAjiB",
+      "hostname": "kevliao.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.1"
+  },
+  "ctime": 1597279664,
+  "expire_in": 504576000,
+  "prev": "40161db526ae2de921ac1a9a00ee7c4bc446769c4c9d3495419145d29bed4fda",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgL8ww1cU/Huf2KvcoXF/q5YyCPsY0gSDyljO3hZmDSC0Kp3BheWxvYWTESpcCCsQgQBYdtSauLekhrBqaAO58S8RGdpxMnTSVQZFF0pvtT9rEIO0mMYulNRNL/40ojiGC1yURAm7rqFsZVxJP612HE67EAgHCo3NpZ8RAX1SuDEvqQrhh4bJY2XPc2V4qVqp5Fbp1pGR/vTzzD2yLv+cDEMqEk/MGk5pYfgEKtxKOKBDn4iZOJ69+ShK8AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMNTsagcpemrVdYRw0obkGJ4fFIqDm3YwlHiatDl0Dvko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kevliao
+
+==================================================================
