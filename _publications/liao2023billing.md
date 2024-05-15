@@ -1,7 +1,7 @@
 ---
-title: 'Billing for Private Ads with Divisible E-Cash'
+title: 'Divisible E-Cash for Billing in Private Ad Retargeting'
 link: ''
 authors: Kevin Liao, Henry Corrigan-Gibbs, Dan Boneh
-published: In Submission
+published: Privacy Enhancing Technologies Symposium (PETS) 2024
 weight: 8
 ---
